@@ -19,13 +19,13 @@ const testimonials = [
     name: "Taylor Swift",
     avatar: "A",
     title: "Musician",
-    description: "PentaVerse is a melody-maker's paradise. The harmonious music creation feature unleashes my musical ideas, and amplifies the joy of collaboration. It's where my tunes come to life!",
+    description: "Pentaverse is a melody-maker's paradise. The harmonious music creation feature unleashes my musical ideas, and amplifies the joy of collaboration. It's where my tunes come to life!",
   },
   {
-    name: " Andy Budd",
+    name: "Andy Budd",
     avatar: "M",
     title: "UI/UX Designer",
-    description: "PentaVerse is my creative sanctuary! Seamless integration, device compatibility, and CRM make it a game-changer. Joining PentaVerse has transformed the way I bring ideas to life.",
+    description: "Pentaverse is my creative sanctuary! Seamless integration, device compatibility, and CRM make it a game-changer. Joining PentaVerse has transformed the way I bring ideas to life.",
   },
 ];
 

@@ -17,7 +17,7 @@ const testimonials = [
   },
   {
     name: "Taylor Swift",
-    avatar: "A",
+    avatar: "T",
     title: "Musician",
     description: "Pentaverse is a melody-maker's paradise. The harmonious music creation feature unleashes my musical ideas, and amplifies the joy of collaboration. It's where my tunes come to life!",
   },

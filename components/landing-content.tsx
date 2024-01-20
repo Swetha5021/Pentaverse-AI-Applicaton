@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const testimonials = [
   {
-    name: "Swetha",
+    name: "Swetha Sivasankararaj",
     avatar: "S",
     title: "Student Developer",
     description: "Pentaverse is my coding haven. it's an ideal space to experiment, learn, and bring coding projects to life. Pentaverse has become my go-to for exploring the dynamic world of web development!",

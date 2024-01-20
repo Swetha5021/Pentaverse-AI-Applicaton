@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import { ClerkProvider } from '@clerk/nextjs'
 import { CrispProvider } from '@/components/crisp-provider'
- 
+
 
 const inter = Inter({ subsets: ['latin'] })
 

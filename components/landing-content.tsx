@@ -23,7 +23,7 @@ const testimonials = [
   },
   {
     name: "Alan Turing",
-    avatar: "M",
+    avatar: A",
     title: "Software Developer",
     description: "Pentaverse is my creative sanctuary! Seamless integration, device compatibility, and CRM make it a game-changer. Joining PentaVerse has transformed the way I bring ideas to life.",
   },

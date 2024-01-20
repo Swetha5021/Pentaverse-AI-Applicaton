@@ -11,7 +11,7 @@ const testimonials = [
   },
   {
     name: "Jake Paul",
-    avatar: "R",
+    avatar: "J",
     title: "Content Creator",
     description: "The dynamic conversations, image generation, and video production tools have revolutionized how I bring ideas to life. It's the heartbeat of my content creation journey, providing limitless possibilities.",
   },

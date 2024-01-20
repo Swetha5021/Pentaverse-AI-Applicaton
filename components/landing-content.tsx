@@ -6,26 +6,26 @@ const testimonials = [
   {
     name: "Swetha",
     avatar: "S",
-    title: "Software Engineer",
-    description: "This is the best application I've ever used!",
+    title: "Student Developer",
+    description: "Pentaverse is my coding haven. it's an ideal space to experiment, learn, and bring coding projects to life. Pentaverse has become my go-to for exploring the dynamic world of web development!",
   },
   {
-    name: "Sruthi",
+    name: "Jake Paul",
     avatar: "R",
-    title: "Full Stack Developer",
-    description: "I use this daily for generating new photos!",
+    title: "Content Creator",
+    description: "The dynamic conversations, image generation, and video production tools have revolutionized how I bring ideas to life. It's the heartbeat of my content creation journey, providing limitless possibilities.",
   },
   {
-    name: "Arunaa",
+    name: "Taylor Swift",
     avatar: "A",
-    title: "Content writer",
-    description: "This app has changed my life, cannot imagine working without it!",
+    title: "Musician",
+    description: "PentaVerse is a melody-maker's paradise. The harmonious music creation feature unleashes my musical ideas, and amplifies the joy of collaboration. It's where my tunes come to life!",
   },
   {
-    name: "Rekha",
+    name: " Andy Budd",
     avatar: "M",
-    title: "Data scientist",
-    description: "The best in class, definitely worth the premium subscription!",
+    title: "UI/UX Designer",
+    description: "PentaVerse is my creative sanctuary! Seamless integration, device compatibility, and CRM make it a game-changer. Joining PentaVerse has transformed the way I bring ideas to life.",
   },
 ];
 

@@ -34,16 +34,13 @@ export const LandingHero = () => {
       </div>
       <div>
         <Link href={isSignedIn ? "/dashboard" : "/sign-up"}>
-          {/* <Button variant="secondary" className="md:text-lg p-4 md:p-6 rounded-full font-semibold">
-            Start Generating For Free
-          </Button> */}
           <Button className="bg-gradient-to-tr md:text-lg p-4 md:p-6 font-semibold rounded-full from-purple-400 to-pink-600 text-white shadow-lg">
             Start Generating For Free
           </Button>
         </Link>
       </div>
       <div className="text-zinc-400 text-xs md:text-sm font-normal">
-         Copyrights &copy; 2024 by Swetha
+        Copyrights &copy; 2024 by Swetha
       </div>
     </div>
   );

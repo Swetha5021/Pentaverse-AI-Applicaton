@@ -43,7 +43,7 @@ export const LandingHero = () => {
         </Link>
       </div>
       <div className="text-zinc-400 text-xs md:text-sm font-normal">
-        Copyrights &copy; 2024 by Swetha
+         Copyrights &copy; 2024 by Swetha
       </div>
     </div>
   );
